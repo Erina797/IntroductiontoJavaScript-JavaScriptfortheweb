@@ -1,0 +1,2 @@
+# INTRODUCCION TO JAVASCRIPT- JAVASCRIPT FOR THE WEB
+Challenge - Calculating the total
